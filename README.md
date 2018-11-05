@@ -6,6 +6,6 @@ Note: This is a Visual Studio project and can be run directly from the .sln file
 
 YouTube URL (Video Demonstration) - https://www.youtube.com/watch?v=aR5EzkhOGSI
 
-![alt_text] https://github.com/TDP4you/Solar-System/blob/master/Screenshot_0.jpg
+![alt_text](https://github.com/TDP4you/Solar-System/blob/master/Screenshot_0.jpg)
 
 
